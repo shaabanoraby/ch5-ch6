@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708517963 source:d:\algorithms\breadth first search\queue\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+

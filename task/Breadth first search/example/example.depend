@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708432762 source:d:\algorithms\breadth first search\example\main.c
+	<stdio.h>
+	<stdlib.h>
+
